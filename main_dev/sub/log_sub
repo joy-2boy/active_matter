@@ -1,0 +1,236 @@
+
+
+
+
+
+2024-03-19 21:07:35
+N_array=(1024)
+phi_array=(0.88)
+T_array=(1e-5) 
+t_p_array=(1e5)
+f_array=(1e-2 1e-3)
+seed_array=($(seq 1 1 3))
+
+
+
+
+2024-03-19 21:20:14
+N_array=(1024)
+phi_array=(0.88)
+T_array=(1e-5) 
+t_p_array=(1e5)
+f_array=(1e-2 1e-3)
+seed_array=($(seq 1 1 3))
+
+
+
+
+2024-03-19 22:13:46
+N_array=(1024)
+phi_array=(0.88)
+T_array=(1e-5) 
+t_p_array=(1e5)
+f_array=(1e-2 1e-3)
+seed_array=($(seq 1 1 2))
+
+
+
+
+2024-03-19 22:17:50
+N_array=(1024)
+phi_array=(0.88)
+T_array=(1e-5) 
+t_p_array=(1e5)
+f_array=(1e-2 1e-3)
+seed_array=($(seq 1 1 2))
+
+
+
+
+2024-03-19 22:38:57
+N_array=(1024)
+phi_array=(0.88)
+T_array=(1e-5) 
+t_p_array=(1e5)
+f_array=(1e-2 1e-3)
+seed_array=($(seq 1 1 2))
+
+
+
+
+2024-03-19 22:47:23
+N_array=(1024)
+phi_array=(0.88)
+T_array=(1e-5) 
+t_p_array=(1e5)
+f_array=(1e-2 1e-3)
+seed_array=($(seq 1 1 2))
+
+
+
+
+2024-03-19 22:47:36
+N_array=(1024)
+phi_array=(0.88)
+T_array=(1e-4) 
+t_p_array=(1e5)
+f_array=(1e-2 1e-3)
+seed_array=($(seq 1 1 2))
+
+
+
+
+2024-03-20 14:04:25
+N_array=(1024)
+phi_array=(0.1)
+T_array=(1e-4) 
+t_p_array=(1e5)
+f_array=(1e-1 1e-2)
+seed_array=($(seq 1 1 2))
+
+
+
+
+2024-03-20 15:13:17
+N_array=(1024)
+phi_array=(0.1)
+T_array=(1e-4) 
+t_p_array=(1e5)
+f_array=(1e-1 1e-2)
+seed_array=($(seq 1 1 2))
+
+
+
+
+2024-03-20 15:16:46
+N_array=(1024)
+phi_array=(0.1)
+T_array=(1e-4) 
+t_p_array=(1e5)
+f_array=(1e-1 1e-2)
+seed_array=($(seq 1 1 2))
+
+
+
+
+2024-03-20 15:43:51
+N_array=(1024)
+phi_array=(0.1)
+T_array=(1e-4) 
+t_p_array=(1e5)
+f_array=(1e-1 1e-2)
+seed_array=($(seq 1 1 2))
+
+
+
+
+2024-03-20 16:47:05
+N_array=(1024)
+phi_array=(0.01)
+T_array=(1e-4 1e-2) 
+t_p_array=(1e5)
+f_array=(1e-1 1e-2)
+seed_array=($(seq 1 1 2))
+
+
+
+
+2024-03-20 16:51:29
+N_array=(1024)
+phi_array=(0.82)
+T_array=(1e-4 1e-5) 
+t_p_array=(1e1)
+f_array=(1e-2 1e-3)
+seed_array=($(seq 1 1 2))
+
+
+
+
+2024-03-23 21:44:11
+N_array=(1024)
+phi_array=(0.82)
+T_array=(1e-4 1e-5) 
+t_p_array=(1e1)
+f_array=(1e-2 1e-3)
+seed_array=($(seq 1 1 2))
+
+
+
+
+2024-03-25 10:15:37
+N_array=(1024)
+phi_array=(0.01)
+T_array=(1e-4 1e-5) 
+t_p_array=(1e1)
+f_array=(1e-2 1e-3)
+seed_array=($(seq 1 1 2))
+
+
+
+
+2024-03-25 10:56:23
+N_array=(1024)
+phi_array=(0.01 0.82)
+T_array=(1e-4 1e-5) 
+t_p_array=(1e1)
+f_array=(1e-2 1e-3)
+seed_array=($(seq 1 1 2))
+
+
+
+
+2024-03-25 11:41:23
+N_array=(1024)
+phi_array=(0.01 0.82)
+T_array=(1e-4 1e-2) 
+t_p_array=(1e1000 1e1)
+f_array=(1e-2 1e-1)
+seed_array=($(seq 1 1 2))
+
+
+
+
+2024-03-31 23:06:56
+N_array=(1024)
+phi_array=(0.01 0.82)
+T_array=(1e-4 1e-2) 
+t_p_array=(1e1000 1e1)
+f_array=(1e-2 1e-1)
+seed_array=($(seq 1 1 2))
+
+
+
+
+2024-04-01 00:11:10
+N_array=(1024)
+phi_array=(0.01)
+T_array=(1e-4) 
+t_p_array=(1e5)
+f_array=(2.2e-3)
+seed_array=($(seq 1 1 1))
+
+
+
+
+2024-04-01 00:13:11
+N_array=(1024)
+phi_array=(0.01)
+T_array=(1e-4) 
+t_p_array=(1e5)
+f_array=(2.2e-3)
+seed_array=($(seq 1 1 1))
+
+
+
+
+2024-04-01 00:14:14
+N_array=(1024)
+phi_array=(0.01)
+T_array=(1e-4) 
+t_p_array=(1e5)
+f_array=(2.2e-3)
+seed_array=($(seq 1 1 1))
+
+
+
+

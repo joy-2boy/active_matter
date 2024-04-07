@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "math.h": "c",
+        "stdio.h": "c",
+        "init.h": "c",
+        "stdlib.h": "c",
+        "gsl_randist.h": "c",
+        "string.h": "c"
+    }
+}

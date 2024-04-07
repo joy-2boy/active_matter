@@ -1,0 +1,28 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "job-build",
+            "type": "shell",
+            "command": "./script/build.sh ${file} -g",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "presentation": {
+                "panel": "dedicated",  // 为每个任务开启一个新的终端
+                //"close": true  // 如果任务成功执行 ，执行完成后自动关闭终端面板
+            }
+        }
+        ,
+        {   // 已经在   /C:/Users/dell/AppData/Roaming/Code/User/keybindings.json  设置了快捷键"ctrl+alt+s" 
+            "label": "sub-jobs",  // 一般在config.sh 的界面调用  可以做到修改完就提交
+            "type": "shell",
+            "command": "${fileDirname}/sub.sh",
+            "options": {
+                "cwd": "${fileDirname}"
+            },
+            "group": "none"
+        }
+    ]
+}
